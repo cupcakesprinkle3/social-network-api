@@ -33,17 +33,17 @@ The challenge requires thorough documentation in the form of demonstration video
 
 ### Part 3
 * Links to videos:
- * Part 3, Format 1 - mp4 on Google Drive - https://drive.google.com/file/d/1aHYgy56Ky3EbeQngksXtFH7f2HMa_IrS/view?usp=sharing
- * Part 3, Format 2 - webm file extension from Screencastify on Google Drive - https://drive.google.com/file/d/1tv-NKskcdzB7Ciz8KDsVi3dW07UsLplE/view?usp=sharing 
+  * Part 3, Format 1 - mp4 on Google Drive - https://drive.google.com/file/d/1aHYgy56Ky3EbeQngksXtFH7f2HMa_IrS/view?usp=sharing
+  * Part 3, Format 2 - webm file extension from Screencastify on Google Drive - https://drive.google.com/file/d/1tv-NKskcdzB7Ciz8KDsVi3dW07UsLplE/view?usp=sharing 
 * Length of video: 4:04
 * Topics covered:
- * POST and DELETE routes for a user’s friend list being tested in Insomnia Core
- * POST routes for reactions to thoughts being tested in Insomnia Core
+  * POST and DELETE routes for a user’s friend list being tested in Insomnia Core
+  * POST routes for reactions to thoughts being tested in Insomnia Core
 
 ### Part 4
 * Links to videos:
- * Part 4, Format 1 - mp4 on Google Drive - https://drive.google.com/file/d/1oGuLpydak-rChYLd_k8nYXOPP0npE6Qs/view?usp=sharing
- * Part 4, Format 2 - webm file extension from Screencastify on Google Drive - https://drive.google.com/file/d/1Cgel7QInHp9qacvuMEvATDzbXAFxQg7f/view?usp=sharing
+  * Part 4, Format 1 - mp4 on Google Drive - https://drive.google.com/file/d/1oGuLpydak-rChYLd_k8nYXOPP0npE6Qs/view?usp=sharing
+  * Part 4, Format 2 - webm file extension from Screencastify on Google Drive - https://drive.google.com/file/d/1Cgel7QInHp9qacvuMEvATDzbXAFxQg7f/view?usp=sharing
 * Length of video: 1:31
 * Topics covered:
- * DELETE routes for reactions to thoughts being tested in Insomnia Core
+  * DELETE routes for reactions to thoughts being tested in Insomnia Core
